@@ -5,4 +5,5 @@
 |contests|A|B|C|D|E|F|G|H|I|J|K|L|M|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |[2018-2019 ACM-ICPC Brazil Subregional Programming Contest](https://codeforces.com/gym/101908)(492)|\*|***B***|C|D|E|***F***|***G***|\*|I|***J***|\*|***L***|\*|
-|[2019 ICPC Malaysia National](https://codeforces.com/gym/102219)(418)|A|B|C|\*|***E***|***F***|\*|***H***|I|J|K|
+|[2019 ICPC Malaysia National](https://codeforces.com/gym/102219)(418)|A|B|C|\*|***E***|***F***|\*|***H***|I|J|K|||
+|[2017-2018 ACM-ICPC, NEERC, Northern Subregional Contest](https://codeforces.com/gym/101612)(517)|A|B|***C***|
