@@ -26,7 +26,7 @@ void solve(){
     }
         for (int i = 1; i <= 100; i++){
             for (int j = 1; j <= 100; j++){
-                if (i == j) //對角線為必輸態(x=0與y=0也是)
+                if (i == j) //對角線為必贏態(x=0與y=0也是)
                     continue;
                 sg[i][j] = mex(i, j); //找三個方向的mex
             }
