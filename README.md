@@ -8,3 +8,4 @@
 |[2019 ICPC Malaysia National](https://codeforces.com/gym/102219)(418)|A|B|C|\*|***E***|***F***|\*|***H***|I|J|K|-|-|
 |[2017-2018 ACM-ICPC, NEERC, Northern Subregional Contest](https://codeforces.com/gym/101612)(517)|A|B|***C***|\*|***E***|\*|\*|***H***|I|\*|K|***L***|-|
 |[2017-2018 ACM-ICPC Southwestern European Regional Programming Contest (SWERC 2017)](https://codeforces.com/gym/101635)(353)|A|\*|\*|\*|E|F|***G***|\*|\*|J|***K***|-|-|
+|[2019-2020 ICPC Southwestern European Regional Programming Contest (SWERC 2019-20)](https://codeforces.com/gym/102501)(633)|***A***|B|C|\*|\*|F|***G***|\*|I|🖕|***K***|\*|
