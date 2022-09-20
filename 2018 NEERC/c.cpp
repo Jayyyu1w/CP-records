@@ -58,11 +58,11 @@ int main(){
     for (int i = 0; i < m;i++){
         cin >> l >> r >> c >> p;
         v[l].push_back(make_pair(c, p));
-        v[r + 1].push_back(make_pair(c * (-1), p));
+        v[r + 1].push_back(make_pair(c * (-1), p)); //代表跑到該天數就刪掉
     }
-    build(1, 1, MXN - 1);
-    for (int i = 1; i <= n;i++){
-        for(auto it:v[i]){
+    build(1, 1, MXN - 1);       //價格建樹
+    for (int i = 1; i <= n;i++){    //跑天數
+        for(auto it:v[i]){  //更新值
             update(1, 1, MXN - 1, it.second, it.first);
         }
         ans += query(1, 1, MXN - 1, k);
