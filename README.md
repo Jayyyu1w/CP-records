@@ -11,3 +11,5 @@
 |[2019-2020 ICPC Southwestern European Regional Programming Contest (SWERC 2019-20)](https://codeforces.com/gym/102501)|***A***|B|C|\*|\*|F|***G***|\*|I|🖕|***K***|\*|-|-|-|
 |[SWERC 2021-2022 - Online Mirror (Unrated, ICPC Rules, Teams Preferred)](https://codeforces.com/contest/1662)|A|\*|\*|***D***|\*|\*|\*|H|***I***|\*|\*|***L***|M|\*|***O***|
 |[2018-2019 ICPC, NEERC, Southern Subregional Contest (Online Mirror, ACM-ICPC Rules, Teams Preferred)](https://codeforces.com/contest/1070)|***A***|\*|***C***|D|***E***|F|\*|H|\*|\*|K|\*|\*|-|-|
+|[2013-2014 ACM-ICPC, NEERC, Moscow Subregional Contest](https://codeforces.com/gym/100257)|\*|B|\*|\*|\*|F|\*|H|I|\*|\*|\*|-|-|-|
+|[2017-2018 ACM-ICPC, NEERC, Southern Subregional Contest, qualification stage](https://codeforces.com/contest/847)|A|B|***C***|***D***|***E***|***F***|G|***H***|***I***|***J***|***K***|***L***|M|-|-|
