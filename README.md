@@ -13,3 +13,6 @@
 |[2018-2019 ICPC, NEERC, Southern Subregional Contest (Online Mirror, ACM-ICPC Rules, Teams Preferred)](https://codeforces.com/contest/1070)|***A***|\*|***C***|D|***E***|F|\*|H|\*|\*|K|\*|\*|-|-|
 |[2013-2014 ACM-ICPC, NEERC, Moscow Subregional Contest](https://codeforces.com/gym/100257)|\*|B|\*|\*|\*|F|\*|H|I|\*|\*|\*|-|-|-|
 |[2017-2018 ACM-ICPC, NEERC, Southern Subregional Contest, qualification stage](https://codeforces.com/contest/847)|A|B|***C***|***D***|***E***|***F***|G|***H***|***I***|***J***|***K***|***L***|M|-|-|
+|[2014-2015 ACM-ICPC, NEERC, Eastern Subregional Contest](https://codeforces.com/gym/100507)|A|\*|***C***|***D***|\*|\*|***G***|H|I|***J***|\*|\*|-|-|-|
+|[2022 ICPC Asia Taiwan Online Programming Contest](https://codeforces.com/gym/103990)|\*|\*|C|\*|\*|F|***G***|H|\*|-|-|-|-|-|-|
+|[2021-2022 ICPC, NERC, Northern Eurasia Onsite](https://codeforces.com/contest/1666)|\*|\*|C|D|\*|\*|\*|\*|***I***|\*|\*|***L***|-|-|-|
