@@ -16,3 +16,4 @@
 |[2014-2015 ACM-ICPC, NEERC, Eastern Subregional Contest](https://codeforces.com/gym/100507)|A|\*|***C***|***D***|\*|\*|***G***|H|I|***J***|\*|\*|-|-|-|
 |[2022 ICPC Asia Taiwan Online Programming Contest](https://codeforces.com/gym/103990)|\*|\*|C|\*|\*|F|***G***|H|\*|-|-|-|-|-|-|
 |[2021-2022 ICPC, NERC, Northern Eurasia Onsite](https://codeforces.com/contest/1666)|\*|\*|C|D|\*|\*|\*|\*|***I***|\*|\*|***L***|-|-|-|
+|[Damascus University Collegiate Programming Contest(2018)](https://codeforces.com/gym/101808)|A|***B***|C|\*|\*|F|***G***|\*|***I***|J|***K***|\*|-|-|-|
